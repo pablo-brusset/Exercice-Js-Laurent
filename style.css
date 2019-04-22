@@ -1,0 +1,25 @@
+
+#cadre {
+    height: 400px;
+    width: 800px;
+    border: 1px;
+    background-color: brown;
+}
+
+#cadre > div {
+  margin-top: 5px;
+    margin: 5px;
+  }
+
+  .rouge{
+      background-color: red;
+    }
+  .bleu{
+      background-color: blue;
+    }
+  .jaune {
+      background-color: yellow;
+    }
+  .vert {
+      background-color: green;
+    }
